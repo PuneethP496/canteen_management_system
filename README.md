@@ -57,16 +57,3 @@ To Watch the Live Demo Of Application click on the Below Given Link.
 <img src="https://user-images.githubusercontent.com/62383314/210779271-4d316553-4994-4755-b700-b6bf239a9093.png" alt="drawing" width="49%"></img>
 <img src="https://user-images.githubusercontent.com/62383314/210779274-0c8cbf63-fde1-45fa-ae83-1676ca62eb54.png" alt="drawing" width="49%"></img>
 <img src="https://user-images.githubusercontent.com/62383314/210779276-65054df6-b283-497a-aea2-cf7cb6c939fe.png" alt="drawing" width="49%"></img>
-
-## Note
-If You are Learner, or Want to test this application. Then After Forking & Cloning, You Can use these `Test Credentials` for Logging-In into the Application.
-
-``` PYTHON
-- #### FOR USER:
-  - ID : test
-  - PASSWORD : test
-
-- #### FOR ADMIN:
-  - ID : admin
-  - PASSWORD : admin
-```
